@@ -1,5 +1,5 @@
 # Exploring-NYC-Public-School-Test-Result-Scores
-This notebook analyzes the SAT scores of NYC public schools from the 'schools.csv' dataset based on three sections, with each section having a maximum score of 800 points:
+This notebook analyzes the SAT scores of NYC public schools from the `schools.csv` dataset based on three sections, with each section having a maximum score of 800 points:
 1. reading
 2. math
 3. writing
